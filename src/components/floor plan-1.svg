@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="343px" height="181px" viewBox="0 0 443 181" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Quote-Tool" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quote-2.0---Size" transform="translate(-492.000000, -361.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(492.000000, 362.000000)">
+                <path d="M77.3626599,83.5 L1.04304679,178.5 L441.96395,178.5 L366.462794,83.5 L77.3626599,83.5 Z" id="Rectangle-3" stroke="#979797"></path>
+                <path d="M442.5,0.366803279 L442.5,178.633197" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M1.5,0.366803279 L1.5,178.633197" id="Line-Copy-3" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M366.416667,22.3210526 L366.416667,82.6789474" id="Line-Copy" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M77.4166667,22.3210526 L77.4166667,82.6789474" id="Line-Copy-2" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M47.3515152,122 L394.648485,122" id="Line-2" stroke="#979797" opacity="0.2" stroke-linecap="square" stroke-dasharray="3"></path>
+                <path d="M63.3507795,99.8333333 L377.64922,99.8333333" id="Line-2-Copy-2" stroke="#979797" opacity="0.2" stroke-linecap="square" stroke-dasharray="3"></path>
+                <path d="M26.3517857,148 L419.648214,148" id="Line-2-Copy" stroke="#979797" opacity="0.2" stroke-linecap="square" stroke-dasharray="3"></path>
+                <path d="M221,83.3221477 L221,178.677852" id="Line-3" stroke="#979797" opacity="0.2" stroke-linecap="square" stroke-dasharray="3"></path>
+                <path d="M270.178571,83.3221477 L294.904762,178.677852" id="Line-3-Copy" stroke="#979797" opacity="0.2" stroke-linecap="square" stroke-dasharray="3"></path>
+                <path d="M318.174242,83.32 L363.779293,178.68" id="Line-3-Copy-2" stroke="#979797" opacity="0.2" stroke-linecap="square" stroke-dasharray="3"></path>
+                <path d="M173.445652,83.32 L157.098551,178.68" id="Line-3-Copy-4" stroke="#979797" opacity="0.2" stroke-linecap="square" stroke-dasharray="3"></path>
+                <path d="M123.479839,83.32 L81.2196237,178.68" id="Line-3-Copy-5" stroke="#979797" opacity="0.2" stroke-linecap="square" stroke-dasharray="3"></path>
+                <rect id="Rectangle-4" fill="#DCDCDC" opacity="0.7" x="69" y="41" width="42" height="59"></rect>
+                <rect id="Rectangle-4-Copy-2" fill="#DCDCDC" opacity="0.7" x="104" y="63" width="42" height="59"></rect>
+                <rect id="Rectangle-4-Copy" fill="#DCDCDC" opacity="0.7" x="318" y="41" width="80" height="83"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
